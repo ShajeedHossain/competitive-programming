@@ -6,21 +6,11 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int t;
-    cin >> t;
+    int w;
+    cin >> w;
 
-    while (t--)
-    {
-        int n, target;
-        cin >> n >> target;
-
-        // cin.ignore();
-        // string s;
-        // getline(cin, s);
-
-        vector<int> arr(n);
-
-        for (int i = 0; i < n; i++)
-            cin >> arr[i];
-    }
+    if ((w - 2) > 0 && ((w - 2) % 2 == 0))
+        cout << "YES\n";
+    else
+        cout << "NO\n";
 }

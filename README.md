@@ -5,12 +5,11 @@
 
 # Template
 To add template,
-```
 1. ctrl + shift + p
 2. Select configure user snippets
 3. Select language
 4. Paste in the json, e.g. in cpp.json:
-
+```
 {
     "Competitive Programming Template": {
     "prefix": ["cp", "temp", "contest"],
