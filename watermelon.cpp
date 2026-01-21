@@ -13,6 +13,8 @@ int main()
     {
         int n, target;
         cin >> n >> target;
+
+        // cin.ignore();
         // string s;
         // getline(cin, s);
 
