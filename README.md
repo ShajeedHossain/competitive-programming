@@ -1,6 +1,7 @@
 # Competitive Programming
 
 - [Watermelon](https://codeforces.com/problemset/problem/4/A)
+- [Way too long words](https://codeforces.com/problemset/problem/71/A)
 
 
 # Template
@@ -31,6 +32,7 @@ To add template,
       "        // cin.ignore();",
       "        // string s;",
       "        // getline(cin, s);",
+      "        // cin >> s;",
       "",
       "        vector<int> arr(n);",
       "",
