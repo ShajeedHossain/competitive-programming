@@ -3,6 +3,10 @@
 - [Watermelon](https://codeforces.com/problemset/problem/4/A)
 - [Way too long words](https://codeforces.com/problemset/problem/71/A)
 
+## DP
+
+- [From Zero to Y](https://codeforces.com/problemset/problem/1488/A)
+
 
 # Template
 To add template,
